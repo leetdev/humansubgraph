@@ -6,7 +6,7 @@ dataSources:
     name: EscrowFactory
     network: matic
     source:
-      address: "0x45eBc3eAE6DA485097054ae10BA1A0f8e8c7f794"
+      address: "0x925B24444511c86F4d4E63141D8Be0A025E2dca4"
       abi: EscrowFactory
     mapping:
       kind: ethereum/events
