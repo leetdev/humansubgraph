@@ -1,5 +1,5 @@
 specVersion: 0.0.2
-description: Human on Rinkeby2
+description: Human on Rinkeby 3
 schema:
   file: ./schema.graphql
 dataSources:
