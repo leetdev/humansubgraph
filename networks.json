@@ -9,6 +9,16 @@
       "startBlock": 20181700
     }
   },
+  "bsc": {
+    "EscrowFactory": {
+      "address": "0xc88bC422cAAb2ac8812de03176402dbcA09533f4",
+      "startBlock": 20689161
+    },
+    "HMToken": {
+      "address": "0x0d501B743F22b641B8C8dfe00F1AAb881D57DDC7",
+      "startBlock": 20541027
+    }
+  },
   "rinkeby": {
     "EscrowFactory": {
       "address": "0x925B24444511c86F4d4E63141D8Be0A025E2dca4",

@@ -8,3 +8,5 @@ Currently deploying to:
 - main branch -> https://thegraph.com/hosted-service/subgraph/humanprotocol/polygon
 
 - rinkeby branch -> https://thegraph.com/hosted-service/subgraph/humanprotocol/rinkeby
+
+- binance smart chain branch -> https://thegraph.com/hosted-service/subgraph/humanprotocol/bsc
